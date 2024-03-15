@@ -56,4 +56,11 @@ The project implements a data analysis pipeline to analyze the Titanic dataset. 
 5) Calling `model.py` to implement K-means algorithm.
 6) Save result and save it on local machine using `final.sh` bash script.
 
-###**Github Repo**
+### **Github Repo**
+https://github.com/aabdoo23/bd-a1
+
+### **Meet the team**
+##### - *Abdelrahman Saleh* 
+##### - *Mohamed Abdelfattah*
+##### - *Ahmed Sherif*
+##### - *Ahmed Kamal*
