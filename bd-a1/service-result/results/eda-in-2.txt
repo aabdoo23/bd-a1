@@ -1,0 +1,10 @@
+Insight 2: Data Types
+Survived      int64
+Pclass        int64
+Sex           int64
+Age         float64
+SibSp         int64
+Parch         int64
+Fare        float64
+Embarked      int64
+dtype: object

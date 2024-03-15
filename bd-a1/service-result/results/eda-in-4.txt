@@ -1,0 +1,4 @@
+Insight 5: Correlation Matrix
+          Fare       Age
+Fare  1.000000  0.091566
+Age   0.091566  1.000000
